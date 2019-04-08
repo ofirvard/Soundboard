@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Soundboard</string>
+    <string name="color">color</string>
+    <string name="set_name">Please set the name for the new button</string>
+    <string name="set_name_error">Name cannot be empty</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="delete">Delete</string>
+    <string name="random">Randomize color</string>
+</resources>
